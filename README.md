@@ -2,7 +2,7 @@
 
 Përshkrimi
 
-Ky projekt është një aplikacion i thjeshtë në C++ i zhvilluar për të demonstruar përdorimin e Git dhe GitHub për menaxhimin e kodit dhe bashkëpunimin në ekip.
+Ky projekt është një aplikacion i thjeshtë në C++ i zhvilluar për të demonstruar përdorimin e Git dhe GitHub për menaxhimin e kodit.
 
 Si ta ekzekutosh
 
