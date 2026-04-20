@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Pershendetje nga projekti im ne C++!" << endl;
+    cout << "Jom ne feature branch!" << endl;
     return 0;
 }
